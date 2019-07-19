@@ -1,0 +1,10 @@
+{
+  "initial_pop": 100,
+  "initial_structure": {
+    "layers_amount": 4,
+    "0": 2,
+    "1": 10,
+    "2": 10,
+    "3": 1
+  }
+}
